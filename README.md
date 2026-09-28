@@ -11,3 +11,8 @@
 2. Pour chaque vidéo, remplis le bloc **ENTRÉES** : sujet, titre, miniature, durée, spectateur idéal, émotion, recherche.
 3. Commence en `MODE : [PLAN D'ABORD]` pour valider les faits, la structure et le plan avant l'écriture complète.
 4. Vérifie tous les éléments marqués `[À VÉRIFIER]` avant l'enregistrement.
+
+## Scripts
+
+- [`scripts/immobilier-vs-bourse.md`](scripts/immobilier-vs-bourse.md) : *Immobilier vs Bourse : Lequel Va VRAIMENT Vous Rapporter le Plus ?* Script de 15 minutes écrit avec le prompt : recherche sourcée, plan, script avec indications visuelles, rapport de révision et version voix off seule.
+- [`scripts/immobilier-vs-bourse-simulation.py`](scripts/immobilier-vs-bourse-simulation.py) : la simulation du round 4 (immobilier à crédit contre ETF, mêmes sorties d'argent).
