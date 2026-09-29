@@ -14,5 +14,6 @@
 
 ## Scripts
 
-- [`scripts/immobilier-vs-bourse.md`](scripts/immobilier-vs-bourse.md) : *Immobilier vs Bourse : Lequel Va VRAIMENT Vous Rapporter le Plus ?* Script de 15 minutes écrit avec le prompt : recherche sourcée, plan, script avec indications visuelles, rapport de révision et version voix off seule.
-- [`scripts/immobilier-vs-bourse-simulation.py`](scripts/immobilier-vs-bourse-simulation.py) : la simulation du round 4 (immobilier à crédit contre ETF, mêmes sorties d'argent).
+Scripts finis, prêts à être doublés tels quels par une voix IA (consignes dans [`CLAUDE.md`](CLAUDE.md)) :
+
+- [`scripts/immobilier-vs-bourse.txt`](scripts/immobilier-vs-bourse.txt) : *Immobilier vs Bourse : Lequel Va VRAIMENT Vous Rapporter le Plus ?*
