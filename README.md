@@ -11,3 +11,9 @@
 2. Pour chaque vidéo, remplis le bloc **ENTRÉES** : sujet, titre, miniature, durée, spectateur idéal, émotion, recherche.
 3. Commence en `MODE : [PLAN D'ABORD]` pour valider les faits, la structure et le plan avant l'écriture complète.
 4. Vérifie tous les éléments marqués `[À VÉRIFIER]` avant l'enregistrement.
+
+## Scripts
+
+Scripts finis, prêts à être doublés tels quels par une voix IA (consignes dans [`CLAUDE.md`](CLAUDE.md)) :
+
+- [`scripts/immobilier-vs-bourse.txt`](scripts/immobilier-vs-bourse.txt) : *Immobilier vs Bourse : Lequel Va VRAIMENT Vous Rapporter le Plus ?*
